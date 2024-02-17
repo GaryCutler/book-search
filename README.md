@@ -5,7 +5,7 @@
 The user should be able to login and search for books. Once they find books they like they should be able to save them and/or delete them.
 
 # Image
-<img src= "Book-Search/img/books.png">
+<img src= "img/books.png">
 
 # tutor
 this project was done with the help of a tutor.
